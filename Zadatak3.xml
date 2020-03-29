@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pri:Inbox
+	xmlns:pri='http://viser.edu.rs/mail'>
+	<pri:Poruka>
+		<pri:Posiljalac>Ivan</pri:Posiljalac>
+		<pri:Primalac>Vladimir</pri:Primalac>
+		<pri:CC>dovlash@media.rs</pri:CC>
+		<pri:BCC>ivancha@media.rs</pri:BCC>
+		<pri:Naslov>Izlazag u grad</pri:Naslov>
+		<pri:Tekst>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</pri:Tekst>
+		<pri:Datum date='2020-07-19'></pri:Datum>
+	</pri:Poruka>
+</pri:Inbox>

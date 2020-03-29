@@ -1,0 +1,20 @@
+<!DOCTYPE AutoOglas
+[
+    <!ELEMENT Automobil ANY>
+    <!ELEMENT Proizvodjac (#PCDATA)>
+    <!ELEMENT Model (#PCDATA)>
+    <!ELEMENT Godiste (#PCDATA)>
+    <!ELEMENT Farba (#PCDATA)>
+    <!ELEMENT Kubikaza (#PCDATA)>
+    <!ELEMENT Transmisija (#PCDATA)>
+    <!ELEMENT Gorivo (#PCDATA)>
+    <!ELEMENT Cena (#PCDATA)>
+    <!ELEMENT Kontakt (#PCDATA)>
+    
+    <!ATTLIST Model tip CDATA #IMPLIED>
+    <!ATTLIST Farba tip (akril|metallic) #REQUIRED>
+    <!ATTLIST Transmisija tip (manuelni|auto) #REQUIRED>
+    <!ATTLIST Gorivo tng (da|ne) #IMPLIED>
+    <!ATTLIST Kubikaza jedinica (ccm|I) "ccm">
+    <!ATTLIST Cena valuta (din|eur) "eur">
+]>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Newspaper SYSTEM "zadatak5.dtd">
+<Newspaper>
+    <Article author="Author" editor="Editor" date="yyyy-mm-dd" edition="edition">
+        <Headline>Headline</Headline>
+        <Byline>Byline</Byline>
+        <Lead>Lead</Lead>
+        <Body>Body</Body>
+        <Notes>Notes</Notes>
+        &newspaper;&publisher;&copyright;
+    </Article>
+</Newspaper>

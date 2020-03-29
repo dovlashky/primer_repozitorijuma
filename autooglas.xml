@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AutoOglas>
+	<Automobil>
+		<Proizvodjac>Peugeot</Proizvodjac>
+		<Model tip="SUV">3008</Model>
+		<Godiste>2017</Godiste>
+		<Farba tip="metallic">Siva</Farba>
+		<Kubikaza mera="cm3">1999</Kubikaza>
+		<Transmisija tip="manuelni">6-stepeni</Transmisija>
+		<Gorivo>Benzin</Gorivo>
+		<Cena valuta="EUR">21990</Cena>
+		<Kontakt>060-012-3456</Kontakt>
+	</Automobil>
+</AutoOglas>

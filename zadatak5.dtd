@@ -1,0 +1,17 @@
+<!ELEMENT Newspaper (Article)+>
+<!ELEMENT Article(Headline,Byline,Lead,Body,Notes)>
+<!ELEMENT Headline (#PCDATA)>
+<!ELEMENT Byline (#PCDATA)>
+<!ELEMENT Lead (#PCDATA)>
+<!ELEMENT Body (#PCDATA)>
+<!ELEMENT Notes (#PCDATA)>
+
+<ATTLIST Article 
+author    CDATA       #REQUIRED       
+editor    CDATA       #IMPLIED
+date      CDATA       #IMPLIED
+edition   CDATA       #IMPLIED>
+
+<!ENTITY newspaper SYSTEM "zadatak5.dtd">
+<!ENTITY publisher SYSTEM "zadatak5.dtd">
+<!ENTITY copyright SYSTEM "zadatak5.dtd">

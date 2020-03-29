@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MojiPodaci>
+	<PunoIme>
+		<Ime>Vladimir</Ime>
+		<Prezime>Lazic</Prezime>
+	</PunoIme>
+	<DatumRodjenja>
+        <Dan>19</Dan>
+		<Mesec>8</Mesec>
+		<Godina>1994</Godina>
+	</DatumRodjenja>
+	<Adresa>
+		<Ulica>Grge Andrijanovica 31A</Ulica>
+		<Naselje>Krnjaca</Naselje>
+		<Grad>Beograd</Grad>
+		<Drzava>Srbija</Drzava>
+		<Ptt>11210</Ptt>
+	</Adresa>
+</MojiPodaci>

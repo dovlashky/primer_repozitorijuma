@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fakultet SYSTEM "zadatak6.dtd">
+<fakultet>
+    <student status="studira" indeks="NRT10/17">
+        <osoba>
+            <ime>Ime</ime>
+            <prezime>Prezime</prezime>
+            <mestoRodjenja>Mesto</mestoRodjenja>
+            <datumRodjenja>datRodj</datumRodjenja>
+        </osoba>
+        <upisi>
+            <semestar broj="6" godina="3" vrsta="saf">Semestar</semestar>
+        </upisi>
+    </student>
+</fakultet>
